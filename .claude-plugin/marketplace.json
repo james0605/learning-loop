@@ -1,0 +1,13 @@
+{
+  "name": "learning-loop",
+  "owner": {
+    "name": "FDDRS"
+  },
+  "plugins": [
+    {
+      "name": "learning-loop",
+      "source": "./",
+      "description": "領域快速學習迴圈：捕捉 → 提問 → 研究 → 驗證理解 → 歸檔待轉譯的三件套 skills。"
+    }
+  ]
+}
